@@ -1,12 +1,11 @@
 #!/usr/bin/env node
-//import fetch from "node-fetch";
 import chalkAnimation from "chalk-animation";
 import { input } from "@inquirer/prompts";
 import { select } from "@inquirer/prompts";
 import chalk from "chalk";
 import { createSpinner } from "nanospinner";
 import figlet from "figlet";
-//const url ="https://crypto-price-by-api-ninjas.p.rapidapi.com/v1/cryptoprice?symbol=";
+
 const api_key = process.env.API_KEY;
 const spinner = createSpinner();
 const url = process.env.URL;
