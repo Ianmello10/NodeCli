@@ -2,7 +2,7 @@
 
 ![image](cli.png)
 
-Command line tool to view Btc and Eth price simply and quickly.
+Command line tool to view Btc and Eth price simply and quickly, This application uses the coingecko API .
 
 ### Requirements
 
