@@ -24,9 +24,7 @@ node /path/to/your/script/main.js
 ### Save the file and give execute permission
 
  ```shell 
- 
 chmod +x /path/to/your/script/run-myscript.sh
-
  ```
 
  ### Create an alias 
@@ -44,18 +42,12 @@ alias runmycmd='/path/to/your/script/run-myscript.sh'
 ### Refresh the shell to apply the changes: 
 
 ```shell 
-
 source ~/.bashrc
-
 
 ```
 
-
 ```shell 
-
 source ~/.zshrc
-
-
 ```
 
 ### Execute the command 
