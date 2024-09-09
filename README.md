@@ -1,6 +1,6 @@
 ## Cli With NodeJs 
 
-![image](node_cli.png)
+![image](cli_update.png)
 
 Command line tool to view Btc and Eth price simply and quickly.
 
